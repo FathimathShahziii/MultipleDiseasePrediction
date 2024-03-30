@@ -1,7 +1,7 @@
 # MULTIPLE DISEASE PREDICTION SYSTEM 
 Crafted a Multiple Disease Prediction System using Python, Jupyter Notebook, and ML libraries. Seamlessly managed with Anaconda Navigator, featuring an intuitive interface with Streamlit. Currently predicts heart disease, diabetes, and breast cancer, with a scalable design for easy incorporation of future diseases.
 # Picture from  the project
-"C:\Users\USER\Downloads\disease prediction.jpeg"
+![disease prediction](https://github.com/ashreee/MultipleDiseasePrediction/assets/144210861/b892bc9d-eebb-4c54-8cba-bbc6fa6a14d7)
 
 # Requirements
 
